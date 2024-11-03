@@ -11,7 +11,7 @@ A 2D pixel art platformer game developed using:
 - Pygame
 
 ## Purpose
-This project serves as my OCR A Level NEA (Non-Examined Assessment) submission and is 20% of my grade
+This project serves as my OCR A Level NEA (Non-Examined Assessment) submission and is 20% of my OCR A Level Computer Science (H446) grade
 
 ## Current Status
 - ⏳ Development in progress
